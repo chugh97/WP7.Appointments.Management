@@ -1,0 +1,13 @@
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\bin\Debug\WP7.Appointments.Repository.Tests.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\bin\Debug\WP7.Appointments.Repository.Tests.pdb
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\bin\Debug\EntityFramework.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\bin\Debug\EntityFramework.xml
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\obj\Debug\WP7.Appointments.Repository.Tests.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\obj\Debug\WP7.Appointments.Repository.Tests.pdb
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\bin\Debug\WP7.Appointments.Repository.Tests.dll.config
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\bin\Debug\Should.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\bin\Debug\WP7.Appointments.DataAccess.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\bin\Debug\WP7.Appointments.Repository.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\bin\Debug\WP7.Appointments.DataAccess.pdb
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\bin\Debug\WP7.Appointments.Repository.pdb

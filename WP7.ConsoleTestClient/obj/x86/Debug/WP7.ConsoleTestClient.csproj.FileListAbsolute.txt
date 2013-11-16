@@ -1,0 +1,10 @@
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.ConsoleTestClient\bin\Debug\WP7.ConsoleTestClient.exe.config
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.ConsoleTestClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.ConsoleTestClient\bin\Debug\WP7.ConsoleTestClient.exe
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.ConsoleTestClient\bin\Debug\WP7.ConsoleTestClient.pdb
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.ConsoleTestClient\bin\Debug\EntityFramework.dll
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.ConsoleTestClient\bin\Debug\WP7.Appointments.DataAccess.dll
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.ConsoleTestClient\bin\Debug\WP7.Appointments.DataAccess.pdb
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.ConsoleTestClient\bin\Debug\EntityFramework.xml
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.ConsoleTestClient\obj\x86\Debug\WP7.ConsoleTestClient.exe
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.ConsoleTestClient\obj\x86\Debug\WP7.ConsoleTestClient.pdb

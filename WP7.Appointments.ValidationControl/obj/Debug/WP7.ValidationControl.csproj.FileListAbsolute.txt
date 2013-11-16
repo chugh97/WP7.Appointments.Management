@@ -1,0 +1,6 @@
+C:\Users\shaleen\Documents\Visual Studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.ValidationControl\Bin\Debug\WP7.ValidationControl.dll
+C:\Users\shaleen\Documents\Visual Studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.ValidationControl\Bin\Debug\WP7.ValidationControl.pdb
+C:\Users\shaleen\Documents\Visual Studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.ValidationControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shaleen\Documents\Visual Studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.ValidationControl\obj\Debug\WP7.ValidationControl.g.resources
+C:\Users\shaleen\Documents\Visual Studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.ValidationControl\obj\Debug\WP7.ValidationControl.dll
+C:\Users\shaleen\Documents\Visual Studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.ValidationControl\obj\Debug\WP7.ValidationControl.pdb

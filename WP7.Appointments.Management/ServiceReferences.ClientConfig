@@ -1,0 +1,17 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="BasicHttpBinding_IAppointmentService" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://localhost/WP7.Appointments.Service/AppointmentService.svc"
+                binding="basicHttpBinding" bindingConfiguration="BasicHttpBinding_IAppointmentService"
+                contract="AppointmentServiceClient.IAppointmentService" name="BasicHttpBinding_IAppointmentService" />
+        </client>
+    </system.serviceModel>
+</configuration>

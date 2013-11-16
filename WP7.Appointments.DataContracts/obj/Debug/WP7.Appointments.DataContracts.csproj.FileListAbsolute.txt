@@ -1,0 +1,5 @@
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.DataContracts\bin\Debug\WP7.Appointments.DataContracts.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.DataContracts\bin\Debug\WP7.Appointments.DataContracts.pdb
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.DataContracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.DataContracts\obj\Debug\WP7.Appointments.DataContracts.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.DataContracts\obj\Debug\WP7.Appointments.DataContracts.pdb

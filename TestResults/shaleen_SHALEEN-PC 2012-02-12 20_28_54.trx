@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c7f8a359-396d-46a8-bd1d-8931eb0b2444" name="shaleen@SHALEEN-PC 2012-02-12 20:28:54" runUser="SHALEEN-PC\shaleen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="54f962c3-871a-4f7e-afe2-052264c349cb">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment runDeploymentRoot="shaleen_SHALEEN-PC 2012-02-12 20_28_54">
+      <DeploymentItem filename="C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.DataAccess\bin\Debug\WP7.Appointments.DataAccess.dll" />
+      <DeploymentItem filename="C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\Should.dll" />
+      <DeploymentItem filename="C:\inetpub\wwwroot\EntityFramework.dll" />
+      <DeploymentItem filename="C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository\bin\Debug\WP7.Appointments.Repository.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific>
+        <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+          <AssemblyResolution>
+            <TestDirectory useLoadContext="true" />
+          </AssemblyResolution>
+        </UnitTestRunConfig>
+        <WebTestRunConfiguration testTypeId="4e7599fa-5ecb-43e9-a887-cd63cf72d207">
+          <Browser name="Internet Explorer 7.0">
+            <Headers>
+              <Header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)" />
+              <Header name="Accept" value="*/*" />
+              <Header name="Accept-Language" value="{{$IEAcceptLanguage}}" />
+              <Header name="Accept-Encoding" value="GZIP" />
+            </Headers>
+          </Browser>
+        </WebTestRunConfiguration>
+      </TestTypeSpecific>
+      <AgentRule name="LocalMachineDefaultRole">
+        <DataCollectors>
+          <DataCollector uri="datacollector://microsoft/CodeCoverage/1.0" assemblyQualifiedName="Microsoft.VisualStudio.TestTools.CodeCoverage.CoveragePlugIn, Microsoft.VisualStudio.QualityTools.Plugins.CodeCoverage, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" friendlyName="Code Coverage" enabled="false">
+            <Configuration>
+              <CodeCoverage xmlns="">
+                <Regular>
+                  <CodeCoverageItem binaryFile="WP7.Appointments.Repository\bin\Debug\WP7.Appointments.Repository.dll" pdbFile="WP7.Appointments.Repository\bin\Debug\WP7.Appointments.Repository.pdb" instrumentInPlace="true" />
+                  <CodeCoverageItem binaryFile="WP7.Appointments.DataAccess\bin\Debug\WP7.Appointments.DataAccess.dll" pdbFile="WP7.Appointments.DataAccess\bin\Debug\WP7.Appointments.DataAccess.pdb" instrumentInPlace="true" />
+                </Regular>
+              </CodeCoverage>
+            </Configuration>
+          </DataCollector>
+        </DataCollectors>
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-02-12T20:28:54.5834221+00:00" queuing="2012-02-12T20:29:07.6671704+00:00" start="2012-02-12T20:29:08.8332371+00:00" finish="2012-02-12T20:30:08.0396235+00:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="7" executed="7" passed="3" error="0" failed="4" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Get_All_Available_Slots_Some_Slot_NotAvailable" storage="c:\users\shaleen\documents\visual studio 2010\projects\wp7.appointments.management\wp7.appointments.repository.tests\bin\debug\wp7.appointments.repository.tests.dll" id="ee8378c3-f588-d10e-6062-72fd009742a5">
+      <Execution id="8b6c2431-45d2-47b3-9712-b686fa7af6a9" />
+      <TestMethod codeBase="C:/Users/shaleen/documents/visual studio 2010/Projects/WP7.Appointments.Management/WP7.Appointments.Repository.Tests/bin/Debug/WP7.Appointments.Repository.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WP7.Appointments.Repository.Tests.AppointmentRepositoryTest, WP7.Appointments.Repository.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Get_All_Available_Slots_Some_Slot_NotAvailable" />
+    </UnitTest>
+    <UnitTest name="Book_Appointment" storage="c:\users\shaleen\documents\visual studio 2010\projects\wp7.appointments.management\wp7.appointments.repository.tests\bin\debug\wp7.appointments.repository.tests.dll" id="d59d3e9d-5da3-2091-1e71-1383ced0036f">
+      <Execution id="dadeaca5-9331-4e5d-8a03-0679d977130c" />
+      <TestMethod codeBase="C:/Users/shaleen/documents/visual studio 2010/Projects/WP7.Appointments.Management/WP7.Appointments.Repository.Tests/bin/Debug/WP7.Appointments.Repository.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WP7.Appointments.Repository.Tests.AppointmentRepositoryTest, WP7.Appointments.Repository.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Book_Appointment" />
+    </UnitTest>
+    <UnitTest name="Get_Resources_By_Date" storage="c:\users\shaleen\documents\visual studio 2010\projects\wp7.appointments.management\wp7.appointments.repository.tests\bin\debug\wp7.appointments.repository.tests.dll" id="a97b0a14-4f46-2784-3121-d95880447a6c">
+      <Execution id="49a30fc2-d2ff-4c30-94e4-4bfa212df8b2" />
+      <TestMethod codeBase="C:/Users/shaleen/documents/visual studio 2010/Projects/WP7.Appointments.Management/WP7.Appointments.Repository.Tests/bin/Debug/WP7.Appointments.Repository.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WP7.Appointments.Repository.Tests.AppointmentRepositoryTest, WP7.Appointments.Repository.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Get_Resources_By_Date" />
+    </UnitTest>
+    <UnitTest name="Get_All_Available_Slots_Nurse_On_Half_Day" storage="c:\users\shaleen\documents\visual studio 2010\projects\wp7.appointments.management\wp7.appointments.repository.tests\bin\debug\wp7.appointments.repository.tests.dll" id="120588b3-aac5-0f7f-1793-fa46d8eec692">
+      <Execution id="1b54427a-32ec-4f3c-85c2-b59b8d998abf" />
+      <TestMethod codeBase="C:/Users/shaleen/documents/visual studio 2010/Projects/WP7.Appointments.Management/WP7.Appointments.Repository.Tests/bin/Debug/WP7.Appointments.Repository.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WP7.Appointments.Repository.Tests.AppointmentRepositoryTest, WP7.Appointments.Repository.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Get_All_Available_Slots_Nurse_On_Half_Day" />
+    </UnitTest>
+    <UnitTest name="Get_All_Available_Slots" storage="c:\users\shaleen\documents\visual studio 2010\projects\wp7.appointments.management\wp7.appointments.repository.tests\bin\debug\wp7.appointments.repository.tests.dll" id="18aeb4e1-c71d-2b1f-6c3e-11fc53070d65">
+      <Execution id="b9058a64-bf6b-474f-8644-189e4ce72bbf" />
+      <TestMethod codeBase="C:/Users/shaleen/documents/visual studio 2010/Projects/WP7.Appointments.Management/WP7.Appointments.Repository.Tests/bin/Debug/WP7.Appointments.Repository.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WP7.Appointments.Repository.Tests.AppointmentRepositoryTest, WP7.Appointments.Repository.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Get_All_Available_Slots" />
+    </UnitTest>
+    <UnitTest name="Get_Resources_One_Resource_Busy" storage="c:\users\shaleen\documents\visual studio 2010\projects\wp7.appointments.management\wp7.appointments.repository.tests\bin\debug\wp7.appointments.repository.tests.dll" id="3eda1dcf-06e8-b931-5279-7f298c8e41e7">
+      <Execution id="8fa08cc5-bacd-4dfe-a903-1a5268a212dd" />
+      <TestMethod codeBase="C:/Users/shaleen/documents/visual studio 2010/Projects/WP7.Appointments.Management/WP7.Appointments.Repository.Tests/bin/Debug/WP7.Appointments.Repository.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WP7.Appointments.Repository.Tests.AppointmentRepositoryTest, WP7.Appointments.Repository.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Get_Resources_One_Resource_Busy" />
+    </UnitTest>
+    <UnitTest name="Book_Appointment_By_CustomerId" storage="c:\users\shaleen\documents\visual studio 2010\projects\wp7.appointments.management\wp7.appointments.repository.tests\bin\debug\wp7.appointments.repository.tests.dll" id="cab86edf-4e30-f751-3edc-9ef35c8948a0">
+      <Execution id="3e34a528-cf39-45d6-a0ed-624a48da282f" />
+      <TestMethod codeBase="C:/Users/shaleen/documents/visual studio 2010/Projects/WP7.Appointments.Management/WP7.Appointments.Repository.Tests/bin/Debug/WP7.Appointments.Repository.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WP7.Appointments.Repository.Tests.AppointmentRepositoryTest, WP7.Appointments.Repository.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Book_Appointment_By_CustomerId" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="120588b3-aac5-0f7f-1793-fa46d8eec692" executionId="1b54427a-32ec-4f3c-85c2-b59b8d998abf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="18aeb4e1-c71d-2b1f-6c3e-11fc53070d65" executionId="b9058a64-bf6b-474f-8644-189e4ce72bbf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3eda1dcf-06e8-b931-5279-7f298c8e41e7" executionId="8fa08cc5-bacd-4dfe-a903-1a5268a212dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a97b0a14-4f46-2784-3121-d95880447a6c" executionId="49a30fc2-d2ff-4c30-94e4-4bfa212df8b2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cab86edf-4e30-f751-3edc-9ef35c8948a0" executionId="3e34a528-cf39-45d6-a0ed-624a48da282f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d59d3e9d-5da3-2091-1e71-1383ced0036f" executionId="dadeaca5-9331-4e5d-8a03-0679d977130c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ee8378c3-f588-d10e-6062-72fd009742a5" executionId="8b6c2431-45d2-47b3-9712-b686fa7af6a9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="1b54427a-32ec-4f3c-85c2-b59b8d998abf" testId="120588b3-aac5-0f7f-1793-fa46d8eec692" testName="Get_All_Available_Slots_Nurse_On_Half_Day" computerName="SHALEEN-PC" duration="00:00:44.1624723" startTime="2012-02-12T20:29:09.7932920+00:00" endTime="2012-02-12T20:29:59.2131187+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1b54427a-32ec-4f3c-85c2-b59b8d998abf">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method WP7.Appointments.Repository.Tests.AppointmentRepositoryTest.Get_All_Available_Slots_Nurse_On_Half_Day threw exception: 
+Should.Core.Exceptions.EqualException: Assert.Equal() Failure
+Expected: 8
+Actual:   18</Message>
+          <StackTrace>    at WP7.Appointments.Repository.Tests.AppointmentRepositoryTest.Get_All_Available_Slots_Nurse_On_Half_Day() in C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\AppointmentRepositoryTest.cs:line 50
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b9058a64-bf6b-474f-8644-189e4ce72bbf" testId="18aeb4e1-c71d-2b1f-6c3e-11fc53070d65" testName="Get_All_Available_Slots" computerName="SHALEEN-PC" duration="00:00:00.0450315" startTime="2012-02-12T20:29:59.2371201+00:00" endTime="2012-02-12T20:29:59.2981236+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b9058a64-bf6b-474f-8644-189e4ce72bbf">
+    </UnitTestResult>
+    <UnitTestResult executionId="8fa08cc5-bacd-4dfe-a903-1a5268a212dd" testId="3eda1dcf-06e8-b931-5279-7f298c8e41e7" testName="Get_Resources_One_Resource_Busy" computerName="SHALEEN-PC" duration="00:00:00.0286314" startTime="2012-02-12T20:29:59.3191248+00:00" endTime="2012-02-12T20:29:59.3551268+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8fa08cc5-bacd-4dfe-a903-1a5268a212dd">
+    </UnitTestResult>
+    <UnitTestResult executionId="49a30fc2-d2ff-4c30-94e4-4bfa212df8b2" testId="a97b0a14-4f46-2784-3121-d95880447a6c" testName="Get_Resources_By_Date" computerName="SHALEEN-PC" duration="00:00:00.0275931" startTime="2012-02-12T20:29:59.3681276+00:00" endTime="2012-02-12T20:29:59.4021295+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="49a30fc2-d2ff-4c30-94e4-4bfa212df8b2">
+    </UnitTestResult>
+    <UnitTestResult executionId="3e34a528-cf39-45d6-a0ed-624a48da282f" testId="cab86edf-4e30-f751-3edc-9ef35c8948a0" testName="Book_Appointment_By_CustomerId" computerName="SHALEEN-PC" duration="00:00:02.3500572" startTime="2012-02-12T20:29:59.4201305+00:00" endTime="2012-02-12T20:30:01.7772654+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3e34a528-cf39-45d6-a0ed-624a48da282f">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method WP7.Appointments.Repository.Tests.AppointmentRepositoryTest.Book_Appointment_By_CustomerId threw exception: 
+Should.Core.Exceptions.EqualException: Assert.Equal() Failure
+Expected: 9
+Actual:   10</Message>
+          <StackTrace>    at WP7.Appointments.Repository.Tests.AppointmentRepositoryTest.Book_Appointment_By_CustomerId() in C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\AppointmentRepositoryTest.cs:line 95
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="dadeaca5-9331-4e5d-8a03-0679d977130c" testId="d59d3e9d-5da3-2091-1e71-1383ced0036f" testName="Book_Appointment" computerName="SHALEEN-PC" duration="00:00:02.7819223" startTime="2012-02-12T20:30:01.8912719+00:00" endTime="2012-02-12T20:30:04.6804314+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dadeaca5-9331-4e5d-8a03-0679d977130c">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method WP7.Appointments.Repository.Tests.AppointmentRepositoryTest.Book_Appointment threw exception: 
+Should.Core.Exceptions.EqualException: Assert.Equal() Failure
+Expected: 3
+Actual:   11</Message>
+          <StackTrace>    at WP7.Appointments.Repository.Tests.AppointmentRepositoryTest.Book_Appointment() in C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\AppointmentRepositoryTest.cs:line 77
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8b6c2431-45d2-47b3-9712-b686fa7af6a9" testId="ee8378c3-f588-d10e-6062-72fd009742a5" testName="Get_All_Available_Slots_Some_Slot_NotAvailable" computerName="SHALEEN-PC" duration="00:00:01.5276450" startTime="2012-02-12T20:30:04.6964323+00:00" endTime="2012-02-12T20:30:06.2315201+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8b6c2431-45d2-47b3-9712-b686fa7af6a9">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method WP7.Appointments.Repository.Tests.AppointmentRepositoryTest.Get_All_Available_Slots_Some_Slot_NotAvailable threw exception: 
+Should.Core.Exceptions.EqualException: Assert.Equal() Failure
+Expected: 16
+Actual:   18</Message>
+          <StackTrace>    at WP7.Appointments.Repository.Tests.AppointmentRepositoryTest.Get_All_Available_Slots_Some_Slot_NotAvailable() in C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Repository.Tests\AppointmentRepositoryTest.cs:line 59
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

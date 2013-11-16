@@ -1,0 +1,5 @@
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service.Proxy\Bin\Debug\WP7.Appointments.Service.Proxy.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service.Proxy\Bin\Debug\WP7.Appointments.Service.Proxy.pdb
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service.Proxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service.Proxy\obj\Debug\WP7.Appointments.Service.Proxy.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service.Proxy\obj\Debug\WP7.Appointments.Service.Proxy.pdb

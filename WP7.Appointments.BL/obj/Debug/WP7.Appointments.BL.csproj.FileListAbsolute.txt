@@ -1,0 +1,11 @@
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.BL\bin\Debug\WP7.Appointments.BL.dll
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.BL\bin\Debug\WP7.Appointments.BL.pdb
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.BL\obj\Debug\ResolveAssemblyReference.cache
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.BL\obj\Debug\WP7.Appointments.BL.dll
+c:\users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.BL\obj\Debug\WP7.Appointments.BL.pdb
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.BL\bin\Debug\WP7.Appointments.DataAccess.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.BL\bin\Debug\WP7.Appointments.Repository.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.BL\bin\Debug\EntityFramework.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.BL\bin\Debug\WP7.Appointments.DataAccess.pdb
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.BL\bin\Debug\WP7.Appointments.Repository.pdb
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.BL\bin\Debug\EntityFramework.xml

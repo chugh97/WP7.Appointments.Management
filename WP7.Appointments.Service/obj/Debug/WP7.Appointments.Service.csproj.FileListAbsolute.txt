@@ -1,0 +1,16 @@
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\bin\WP7.Appointments.Service.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\bin\WP7.Appointments.Service.pdb
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\obj\Debug\WP7.Appointments.Service.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\obj\Debug\WP7.Appointments.Service.pdb
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\bin\WP7.Appointments.DataContracts.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\bin\WP7.Appointments.DataContracts.pdb
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\bin\AutoMapper.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\bin\WP7.Appointments.BL.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\bin\WP7.Appointments.DataAccess.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\bin\WP7.Appointments.Repository.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\bin\EntityFramework.dll
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\bin\WP7.Appointments.BL.pdb
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\bin\WP7.Appointments.DataAccess.pdb
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\bin\WP7.Appointments.Repository.pdb
+C:\Users\shaleen\documents\visual studio 2010\Projects\WP7.Appointments.Management\WP7.Appointments.Service\bin\EntityFramework.xml

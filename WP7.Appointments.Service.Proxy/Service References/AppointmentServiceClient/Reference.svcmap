@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7f0fbdbc-afc2-4e27-89d9-e58a4aeb97e7" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/WP7.Appointments.Service/AppointmentService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AppointmentService.xsd" MetadataType="Schema" ID="170dbf80-23ec-4aa5-bea9-4829b5d13459" SourceId="1" SourceUrl="http://localhost/WP7.Appointments.Service/AppointmentService.svc?xsd=xsd0" />
+    <MetadataFile FileName="AppointmentService1.xsd" MetadataType="Schema" ID="8435c000-c641-4e3e-9308-3e650926907b" SourceId="1" SourceUrl="http://localhost/WP7.Appointments.Service/AppointmentService.svc?xsd=xsd1" />
+    <MetadataFile FileName="AppointmentService.wsdl" MetadataType="Wsdl" ID="9ee9a731-5f69-4b62-9dcd-c7c35e35aca0" SourceId="1" SourceUrl="http://localhost/WP7.Appointments.Service/AppointmentService.svc?wsdl" />
+    <MetadataFile FileName="AppointmentService.disco" MetadataType="Disco" ID="f072e4ec-6350-4789-a6f6-157ce1b8ede3" SourceId="1" SourceUrl="http://localhost/WP7.Appointments.Service/AppointmentService.svc?disco" />
+    <MetadataFile FileName="AppointmentService2.xsd" MetadataType="Schema" ID="61ab4bb3-ccb3-48f3-8a74-24f685b4b542" SourceId="1" SourceUrl="http://localhost/WP7.Appointments.Service/AppointmentService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

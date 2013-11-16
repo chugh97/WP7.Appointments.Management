@@ -1,0 +1,12 @@
+<Modules>
+  <Module PersistentId="9B52DB73-24F3-4F13-A9A1-17916F65B63E" ModuleId="WP7.Appointments.DataAccess" />
+  <Module PersistentId="CEF6BE93-D616-499D-9864-61DD3D5C6D5C" ModuleId="WP7.Appointments.Repository" />
+  <Module PersistentId="48AB9E04-778A-4595-8479-2F83191E78FC" ModuleId="WP7.ConsoleTestClient" />
+  <Module PersistentId="FEC951A5-0AD9-46D7-A1B6-16CCA85B7238" ModuleId="WP7.Appointments.Repository.Tests" />
+  <Module PersistentId="023F6DAF-3967-41AE-BF6A-94EC4B6D00EA" ModuleId="WP7.Appointments.BL" />
+  <Module PersistentId="90FD50A0-B473-47C9-AD15-D29BE28C0DEB" ModuleId="WP7.Appointments.Service" />
+  <Module PersistentId="1C78EF37-59A0-4D16-B405-11C5FECAC8E7" ModuleId="WP7.Appointments.DataContracts" />
+  <Module PersistentId="CF3F3F90-3CA4-40B7-988E-345C9FDF0E81" ModuleId="WP7.Appointments.Service.Proxy_1" />
+  <Module PersistentId="914D84AD-4613-46A8-ACEF-79C3799ECF2E" ModuleId="WP7.Appointments.Management" />
+  <Module PersistentId="D555A136-C424-4260-8C83-4A2E32117996" ModuleId="WP7.ValidationControl" />
+</Modules>
